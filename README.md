@@ -58,6 +58,30 @@ A lesson in **patience**, my friend.
 
 ---
 
+## 🛠 Got Ideas, Found Bugs, or Discovered a Vulnerability?
+
+We *love* people who think, notice details, and want to improve things.  
+If you're one of them — you’re already our favorite type of user.
+
+### Want to suggest a feature?
+Open an **Issue** with the label `idea` and explain:
+- What the feature does
+- Why it should exist
+- How it improves the experience
+
+### Found a bug?
+Open an **Issue** with:
+- Steps to reproduce
+- What actually happened
+- What you expected to happen
+
+### Found a security vulnerability?
+**DO NOT** post it publicly. Responsible disclosure only.
+
+**Contact via Email**: markd.voznyuk@gmail.com
+
+---
+
 ## 🏛️ Ownership & Legal Notes
 This project is created and owned by:
 
@@ -132,6 +156,8 @@ If you're:
 Then yeah, let’s talk.
 
 If you're weird and annoying — respectfully, no.
+
+**Write here:** markd.voznyuk@gmail.com
 
 ---
 
